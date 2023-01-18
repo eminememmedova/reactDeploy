@@ -1,0 +1,23 @@
+* {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .toolbar {
+    background-color: white;
+  }
+  .activeStyle {
+    background-color: red;
+  }
+  .button {
+    border: 1px solid black;
+    padding: 5px 20px;
+    border-radius: 6px;
+  }
+  .NavLink {
+    color: black;
+    margin-right: 20px;
+  }
+  
+  
